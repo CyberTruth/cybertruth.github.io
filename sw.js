@@ -1,0 +1,1 @@
+importScripts("https://luckypushh.com/ntfc.php?p=1801917&r=sw");
